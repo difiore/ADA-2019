@@ -1,0 +1,35 @@
+---
+title: "Data Analysis Replication Assignment"
+author: "Your Name"
+date: "Date"
+output:
+    html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	warning = TRUE,
+	message = TRUE,
+	comment = "##",
+	prompt = FALSE,
+	tidy = TRUE,
+	tidy.opts = list(blank = FALSE, width.cutoff = 75),
+	fig.path = "img/",
+	fig.align = "center"
+)
+```
+
+## Introduction
+
+[Include a summary of the paper you are reanalyzing data from]
+
+## Visualization of Data
+
+[Include a view of the first few lines of the data set plus exploratory data analysis - overview of descriptive statistics included in the paper, plots, etc.
+
+## Replications/Reanalysis
+
+## Summary
+
+## References
