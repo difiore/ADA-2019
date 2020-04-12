@@ -67,7 +67,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 66,Jose,Barnes,Male,66.52924285,153.9618812,3,1,mechanical engineering,16.40677989
 67,Brian,Coleman,Male,73.06538863,176.788679,1,3,energy studies,19.18354138
 68,Julie,Armstrong,Female,67.0539333,138.7692349,1,4,criminal justice administration,20.42068317
-69,Lawrence,Berry,Male,67.17319045,137.0979072,1,2,culinart services,20.81643058
+69,Lawrence,Berry,Male,67.17319045,137.0979072,1,2,culinary services,20.81643058
 70,Mildred,Graham,Female,59.57561171,106.9038464,3,3,environmental science,18.27473401
 71,Cheryl,Andrews,Female,72.29986516,168.0946445,2,3,biology,23.23299185
 72,Rose,Gray,Female,69.42491692,148.1821597,4,2,epidemiology,22.42172488
@@ -90,7 +90,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 89,Melissa,Porter,Female,59.74389974,118.6161968,2,5,energy studies,18.34267776
 90,Janice,Willis,Female,70.5580328,162.3950747,3,3,applied sciences,21.93253302
 91,Justin,Murphy,Male,65.85296415,145.2313485,5,3,logistics,16.74417839
-92,Alan,Ramos,Male,65.04940578,149.8803765,4,1,culinart services,15.18804399
+92,Alan,Ramos,Male,65.04940578,149.8803765,4,1,culinary services,15.18804399
 93,Gary,Diaz,Male,72.38118263,172.6539768,9,4,business administration,22.40935656
 94,Keith,Sullivan,Male,64.32386814,116.8042937,3,3,energy studies,17.08912584
 95,Wayne,Collins,Male,66.9246922,138.4221904,4,4,physical education,18.0370664
@@ -144,7 +144,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 143,Helen,Schmidt,Female,66.16296988,146.678344,4,1,education,19.2205656
 144,Joseph,Cunningham,Male,62.39202483,107.852801,7,2,physical education,19.48838832
 145,Roy,Fernandez,Male,66.63451476,138.5398679,5,4,business administration,17.68275391
-146,Ann,Dixon,Female,66.76502057,144.8788356,1,2,culinart services,21.72251707
+146,Ann,Dixon,Female,66.76502057,144.8788356,1,2,culinary services,21.72251707
 147,Dorothy,Foster,Female,65.38845309,138.1399401,0,1,botany,19.50424247
 148,Edward,Foster,Male,71.01244424,173.4268019,3,2,communication,16.91700876
 149,Daniel,Welch,Male,66.16537762,133.4673583,3,8,psychology,19.08007145
@@ -173,7 +173,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 172,Theresa,Martin,Female,69.38269259,140.2724386,4,4,business administration,25.74573147
 173,Christina,Robinson,Female,67.14350989,125.2682962,5,3,integrated water resources management,19.43071461
 174,Mary,Fowler,Female,65.08253248,113.5357768,3,2,biology,19.0651352
-175,Jason,Burns,Male,69.29226621,168.3479556,3,6,culinart services,17.948131
+175,Jason,Burns,Male,69.29226621,168.3479556,3,6,culinary services,17.948131
 176,Amanda,Burton,Female,63.63476574,139.2027243,4,7,applied sciences,18.15221807
 177,Juan,Barnes,Male,62.33876378,133.5535309,3,1,mechanical engineering,14.6117584
 178,Cheryl,Clark,Female,64.18961629,143.4553839,2,2,mechanical engineering,17.943589
@@ -238,7 +238,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 237,Bruce,Reid,Male,77.36757768,191.0817282,1,3,business administration,24.56507466
 238,Dennis,Meyer,Male,75.85360509,188.9251244,3,4,environmental science,24.17554965
 239,Michelle,Harrison,Female,66.54655169,121.8911704,3,2,physical education,22.39315854
-240,Lisa,Russell,Female,67.29899145,145.7219279,5,3,culinart services,17.96662864
+240,Lisa,Russell,Female,67.29899145,145.7219279,5,3,culinary services,17.96662864
 241,Brenda,Black,Female,65.73552165,131.2713119,2,3,criminal justice administration,23.26286372
 242,Brian,Olson,Male,62.54043774,148.9505961,2,1,logistics,13.49798361
 243,Catherine,Griffin,Female,69.54820257,136.0011186,3,1,pharmacology,26.57689113
@@ -280,7 +280,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 279,Tammy,Gonzales,Female,62.34640211,117.5785988,6,1,psychology,17.71509575
 280,Antonio,Vasquez,Male,70.79582344,143.3082505,2,7,mechanical engineering,22.4292007
 281,Philip,Carpenter,Male,72.58839476,147.145153,4,3,business administration,22.37797664
-282,Joe,Burton,Male,68.59138948,148.5910478,3,3,culinart services,18.8633214
+282,Joe,Burton,Male,68.59138948,148.5910478,3,3,culinary services,18.8633214
 283,Gerald,Kelley,Male,73.60767973,171.5406334,1,0,epidemiology,23.19954986
 284,Frances,Cook,Female,58.13215517,110.8869223,3,4,botany,16.98641402
 285,Amanda,Mills,Female,58.88538609,113.6763984,1,5,medicine/nursing,16.40109613
@@ -294,7 +294,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 293,Irene,Lewis,Female,63.773645,120.2286502,2,3,economics,20.49433797
 294,Laura,Ross,Female,63.1805322,127.1017206,1,5,environmental science,24.37250478
 295,Adam,Perez,Male,66.35689462,143.0993712,3,1,military strategy,15.89284528
-296,Bruce,Hughes,Male,67.95232261,146.4438819,6,3,culinart services,16.75515825
+296,Bruce,Hughes,Male,67.95232261,146.4438819,6,3,culinary services,16.75515825
 297,George,Hunt,Male,62.89158253,134.3390457,2,2,city planning,14.64069828
 298,Howard,Martin,Male,68.85220875,150.7262127,6,4,city planning,19.2658691
 299,Kelly,Burke,Female,69.91123828,145.7389026,5,2,biology,22.08627747
@@ -318,7 +318,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 317,Jacqueline,Hicks,Female,63.00015727,131.8478427,3,5,applied sciences,16.87171521
 318,Gloria,Fowler,Female,62.13360179,119.5684278,2,5,energy studies,17.1072189
 319,Amy,Matthews,Female,64.46120736,129.8580222,0,2,philosophy,17.50802161
-320,Maria,Warren,Female,69.47476993,156.718381,2,5,culinart services,22.57393129
+320,Maria,Warren,Female,69.47476993,156.718381,2,5,culinary services,22.57393129
 321,Joan,Andrews,Female,55.66449039,104.3202525,3,2,architecture,10.66380986
 322,Ashley,Woods,Female,63.7488626,131.535967,3,6,human services,18.75646622
 323,Raymond,Price,Male,71.48824046,153.9499065,1,3,pharmacology,19.67347475
@@ -376,7 +376,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 375,Brandon,Medina,Male,70.06511833,153.4659265,2,5,medicine/nursing,19.24230951
 376,George,Hanson,Male,62.70570865,125.6139188,0,3,mechanical engineering,14.30110328
 377,Elizabeth,Gutierrez,Female,65.08026113,155.5516928,2,2,architecture,15.81955876
-378,Jean,Johnson,Female,67.67220547,136.6428072,5,4,culinart services,22.96535832
+378,Jean,Johnson,Female,67.67220547,136.6428072,5,4,culinary services,22.96535832
 379,Timothy,Cooper,Male,72.78778275,161.0059935,5,4,integrated water resources management,24.30698241
 380,Christina,Freeman,Female,66.03249638,137.3453719,2,1,pharmacology,16.91755083
 381,Janet,Hamilton,Female,60.59620049,124.3349039,2,3,environmental science,15.60612382
@@ -402,13 +402,13 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 401,Ernest,Porter,Male,77.89865839,189.5285717,1,3,medicine/nursing,25.82848298
 402,Phyllis,Carr,Female,70.99102716,152.9656421,6,6,animal husbandry,22.89692517
 403,Tina,West,Female,65.18478937,141.491235,1,0,pharmacology,18.63669393
-404,Denise,Walker,Female,59.56853498,101.4664061,5,3,culinart services,16.53850105
+404,Denise,Walker,Female,59.56853498,101.4664061,5,3,culinary services,16.53850105
 405,Linda,Stewart,Female,69.25323133,145.2300034,5,1,logistics,23.40428376
 406,Dennis,Little,Male,71.95262601,150.5578563,4,2,criminal justice administration,21.9714514
 407,Tina,Carroll,Female,62.9604537,127.8159403,5,2,medicine/nursing,17.96900112
 408,Paul,Kennedy,Male,71.09235872,159.1605168,2,3,botany,18.5892926
 409,Sharon,Davis,Female,65.1478929,143.4953437,4,2,business administration,19.84516832
-410,Norma,Olson,Female,62.48025263,114.898814,4,2,culinart services,17.55393075
+410,Norma,Olson,Female,62.48025263,114.898814,4,2,culinary services,17.55393075
 411,Karen,Ferguson,Female,70.21357831,164.5122482,5,0,education,22.57095762
 412,Christopher,Edwards,Male,71.23779091,164.3853423,1,2,epidemiology,21.42676124
 413,Eric,Romero,Male,71.9908066,161.1638363,1,8,human services,20.09721164
@@ -470,7 +470,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 469,Daniel,Nichols,Male,69.85323639,150.462432,3,3,logistics,20.02985799
 470,Edward,Gonzales,Male,67.72147582,160.3177359,0,4,pharmacology,18.90299964
 471,Jennifer,Williams,Female,62.29204846,144.939365,2,2,physical education,17.3541845
-472,Annie,Thompson,Female,66.12076365,134.5862442,0,2,culinart services,20.51588137
+472,Annie,Thompson,Female,66.12076365,134.5862442,0,2,culinary services,20.51588137
 473,Matthew,Crawford,Male,78.36086511,181.6597294,2,4,human services,25.33841651
 474,Paul,Shaw,Male,70.13979904,141.2986752,5,6,city planning,23.16894151
 475,Rachel,Fields,Female,65.61125506,118.1861017,3,3,economics,22.24737204
@@ -483,7 +483,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 482,Fred,Williams,Male,71.38092963,167.4316311,3,3,education,21.3190428
 483,Steve,Howell,Male,54.14947988,91.40651738,4,1,logistics,14.44935655
 484,Eric,Howell,Male,71.16252173,176.5735388,4,1,physical education,21.803371
-485,Jeremy,Johnson,Male,63.59852608,130.9646404,4,4,culinart services,16.95475171
+485,Jeremy,Johnson,Male,63.59852608,130.9646404,4,4,culinary services,16.95475171
 486,Doris,Bailey,Female,62.61598899,120.1111567,3,3,philosophy,19.74367284
 487,Marilyn,Weaver,Female,67.69932981,114.8268142,4,3,architecture,24.7078166
 488,Phyllis,Arnold,Female,63.07296297,127.4196525,3,2,communication,19.0827493
@@ -494,7 +494,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 493,Marilyn,Howell,Female,58.27686433,90.29147845,1,4,pharmacology,21.24646477
 494,Carolyn,Rivera,Female,61.16774093,111.5024774,1,0,epidemiology,18.80624856
 495,Jessica,Fisher,Female,66.12288478,129.2123699,1,2,economics,21.54377232
-496,Rose,Lee,Female,70.63257433,158.8445833,8,2,culinart services,21.65099314
+496,Rose,Lee,Female,70.63257433,158.8445833,8,2,culinary services,21.65099314
 497,Sara,Harper,Female,62.59812853,134.5023822,3,2,business administration,16.19529234
 498,Juan,Simmons,Male,63.41696127,129.2091809,1,1,applied sciences,19.63816862
 499,Ann,Castillo,Female,58.2300528,123.6959203,3,3,mechanical engineering,13.51241437
@@ -525,7 +525,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 524,Wayne,Vasquez,Male,68.73900971,141.8586563,0,4,business administration,23.88692432
 525,Eugene,Stanley,Male,73.35391371,187.1711795,2,3,applied sciences,20.43759512
 526,Steve,Ortiz,Male,70.03853169,148.9648634,2,3,environmental science,24.70150841
-527,Jonathan,Russell,Male,70.25289528,165.1350732,3,6,culinart services,18.77472351
+527,Jonathan,Russell,Male,70.25289528,165.1350732,3,6,culinary services,18.77472351
 528,Sandra,Rodriguez,Female,68.76253903,158.1505537,5,0,energy studies,22.06032076
 529,Matthew,Oliver,Male,65.0065005,138.9623537,7,4,logistics,17.95096548
 530,Michael,Powell,Male,67.39488266,133.6963261,3,4,military strategy,22.55124138
@@ -548,11 +548,11 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 547,Doris,Lopez,Female,59.60174115,103.5430632,4,3,environmental science,21.12569555
 548,Jacqueline,Barnes,Female,69.25874172,150.9086181,3,1,architecture,18.65581759
 549,Charles,Foster,Male,71.0084247,154.609049,2,5,communication,17.96209821
-550,Martin,Williamson,Male,67.41344902,142.0773477,3,5,culinart services,16.57199345
+550,Martin,Williamson,Male,67.41344902,142.0773477,3,5,culinary services,16.57199345
 551,Nancy,Wallace,Female,66.49195948,132.537701,0,5,mechanical engineering,22.04910031
 552,Anna,Williams,Female,63.65082989,130.2871469,1,5,city planning,21.85048947
 553,Jeremy,Walker,Male,70.02179392,172.211296,6,3,agricultural sciences,18.12094492
-554,Phillip,Peters,Male,66.39057071,132.3522236,5,3,culinart services,18.61991585
+554,Phillip,Peters,Male,66.39057071,132.3522236,5,3,culinary services,18.61991585
 555,Tina,Chavez,Female,67.45582932,141.6097504,3,5,environmental science,19.67024531
 556,Stephanie,Bennett,Female,57.85083856,102.9127759,4,4,human services,18.20331705
 557,Rose,Sanders,Female,65.43687844,131.6431085,2,4,mechanical engineering,18.23894781
@@ -595,7 +595,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 594,Janet,Lewis,Female,64.67733506,120.6719306,4,3,architecture,17.58632508
 595,Andrea,Romero,Female,65.21987012,124.3142211,5,4,medicine/nursing,22.52836715
 596,Mark,Scott,Male,74.42188978,165.5043592,6,3,biology,20.75837482
-597,Linda,Patterson,Female,63.14828911,106.4642511,2,0,culinart services,21.91993084
+597,Linda,Patterson,Female,63.14828911,106.4642511,2,0,culinary services,21.91993084
 598,Catherine,Kelly,Female,65.89930423,137.1548322,2,3,communication,19.75386318
 599,Julia,Nguyen,Female,64.33214024,132.1768874,5,6,animal husbandry,20.64069636
 600,Julia,Holmes,Female,62.2912612,131.6759001,1,1,physical education,17.63057333
@@ -636,7 +636,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 635,Harry,Simmons,Male,74.69230522,169.125915,0,7,human services,23.55994101
 636,Samuel,Washington,Male,69.74711798,143.6521902,1,3,medicine/nursing,20.39527188
 637,Larry,Wood,Male,67.19587464,144.8867776,1,2,integrated water resources management,19.1558684
-638,Helen,Lawson,Female,71.2960372,149.0745229,8,2,culinart services,23.97527547
+638,Helen,Lawson,Female,71.2960372,149.0745229,8,2,culinary services,23.97527547
 639,Tammy,Carroll,Female,65.75667588,133.507225,4,6,psychology,22.15048199
 640,Julia,Hunter,Female,67.35269938,147.3063525,2,0,philosophy,19.38431775
 641,Jerry,Jackson,Male,69.91750798,166.3751173,4,3,architecture,23.17758986
@@ -650,7 +650,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 649,Charles,Mcdonald,Male,65.34880878,146.8406205,6,4,military strategy,20.35543453
 650,Roy,Mitchell,Male,66.52055084,135.8782065,3,3,education,16.85585262
 651,Evelyn,Bowman,Female,63.48668074,126.5743017,4,3,agricultural sciences,20.32650305
-652,Donald,Hayes,Male,66.39690615,135.3182922,1,5,culinart services,17.93602499
+652,Donald,Hayes,Male,66.39690615,135.3182922,1,5,culinary services,17.93602499
 653,Joan,Ruiz,Female,68.02573277,149.6848583,2,6,agricultural sciences,21.40159528
 654,Marie,Lopez,Female,59.74803812,132.6426235,2,2,environmental science,15.43727592
 655,Keith,Day,Male,71.77118211,154.9883559,5,4,physical education,21.46526222
@@ -690,7 +690,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 689,Irene,Sims,Female,65.773595,129.8400624,7,2,biology,19.92576781
 690,Helen,Howell,Female,70.65834543,157.5487184,2,1,military strategy,24.14823265
 691,Nancy,Wallace,Female,67.38947789,149.4575379,5,1,military strategy,19.98676578
-692,Aaron,Freeman,Male,69.78012208,142.1296666,1,3,culinart services,18.35593327
+692,Aaron,Freeman,Male,69.78012208,142.1296666,1,3,culinary services,18.35593327
 693,Martin,Austin,Male,66.64707656,134.5228112,0,3,energy studies,24.03626446
 694,Patrick,Ford,Male,70.76268056,151.7260011,6,3,integrated water resources management,23.75442707
 695,Wayne,Nguyen,Male,63.38424788,129.109713,3,4,agricultural sciences,16.39568647
@@ -727,7 +727,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 726,Robin,Gonzales,Female,66.55434667,129.9025545,4,2,city planning,20.11425352
 727,Louise,Brooks,Female,66.42776309,137.1839647,2,2,medicine/nursing,20.22737669
 728,Rebecca,Davis,Female,61.78156987,139.119833,3,3,physical education,16.38547515
-729,Christopher,Henderson,Male,72.78262911,149.967381,2,3,culinart services,20.63110389
+729,Christopher,Henderson,Male,72.78262911,149.967381,2,3,culinary services,20.63110389
 730,Emily,Mendoza,Female,65.49700967,133.6931956,4,2,criminal justice administration,22.05847141
 731,Anne,Burton,Female,68.0935443,143.0720662,6,4,logistics,20.03671085
 732,Steven,Reynolds,Male,68.95873739,157.7417124,1,3,medicine/nursing,21.93761878
@@ -776,7 +776,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 775,Arthur,Warren,Male,65.07953182,167.5017871,3,4,environmental science,14.90774881
 776,Shirley,Jones,Female,63.16838115,133.4695792,3,5,botany,17.85399097
 777,Evelyn,Gonzales,Female,67.01883995,135.6524429,4,3,pharmacology,22.43069914
-778,Jason,Hart,Male,67.6958463,143.826597,3,2,culinart services,16.83191451
+778,Jason,Hart,Male,67.6958463,143.826597,3,2,culinary services,16.83191451
 779,Rose,Chavez,Female,65.41358572,147.8045324,5,4,mechanical engineering,17.77897625
 780,Kevin,Andrews,Male,66.62536412,135.3072332,5,1,city planning,15.75510453
 781,Wanda,Hayes,Female,65.35419489,131.4258056,5,3,communication,20.15367025
@@ -818,7 +818,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 817,Peter,Barnes,Male,67.10780177,163.5109224,0,3,animal husbandry,15.5552414
 818,Sarah,Owens,Female,63.99733972,120.4763243,2,8,pharmacology,17.79963117
 819,Harold,Patterson,Male,70.7574772,152.3994612,3,0,physical education,21.43845661
-820,Michelle,Kennedy,Female,66.85457544,135.326048,1,2,culinart services,19.73227093
+820,Michelle,Kennedy,Female,66.85457544,135.326048,1,2,culinary services,19.73227093
 821,Marilyn,Anderson,Female,62.61715192,122.4186139,3,0,economics,19.11045003
 822,Amy,Rice,Female,66.78994822,146.1663379,1,2,environmental science,18.92233512
 823,Deborah,Andrews,Female,59.43830711,117.5564007,4,5,agricultural sciences,14.39825877
@@ -827,7 +827,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 826,Teresa,Campbell,Female,66.50467874,139.7183223,3,1,medicine/nursing,19.13213785
 827,Richard,Flores,Male,68.71798167,133.856473,3,2,logistics,16.11394455
 828,Randy,Howell,Male,68.97371516,155.6124593,2,3,botany,20.66009141
-829,Beverly,Gardner,Female,63.24187939,128.4248427,1,3,culinart services,18.85515386
+829,Beverly,Gardner,Female,63.24187939,128.4248427,1,3,culinary services,18.85515386
 830,Katherine,Bailey,Female,62.95985949,139.1262894,1,2,energy studies,18.73166998
 831,Jason,Mason,Male,66.01576045,140.0681405,0,3,botany,17.95567963
 832,Joyce,Graham,Female,68.03205627,142.224471,3,3,environmental science,22.94810083
@@ -894,13 +894,13 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 893,Craig,Morris,Male,70.38518356,166.1259202,3,4,philosophy,20.86852574
 894,Kevin,Adams,Male,65.52791541,132.6682728,2,1,communication,19.61512799
 895,Kathleen,Kennedy,Female,63.65599928,128.6292209,11,2,animal husbandry,17.93956727
-896,Annie,Johnson,Female,65.10541383,135.5627643,3,4,culinart services,20.66810214
+896,Annie,Johnson,Female,65.10541383,135.5627643,3,4,culinary services,20.66810214
 897,Janet,Meyer,Female,66.83161998,167.1357809,2,3,energy studies,16.81379676
-898,Sean,Romero,Male,69.8741603,169.4200202,5,2,culinart services,18.99323817
+898,Sean,Romero,Male,69.8741603,169.4200202,5,2,culinary services,18.99323817
 899,Jose,Harrison,Male,67.03323442,144.1175172,2,3,physical education,19.3722668
 900,Lillian,Chapman,Female,71.02901343,163.037504,2,2,applied sciences,21.10780478
 901,George,Reid,Male,73.57915346,157.0191201,4,2,pharmacology,22.99732964
-902,William,Reed,Male,74.70657701,161.2081241,3,1,culinart services,20.93725755
+902,William,Reed,Male,74.70657701,161.2081241,3,1,culinary services,20.93725755
 903,Larry,Black,Male,64.79634509,132.8846868,2,5,criminal justice administration,18.43726554
 904,Betty,Thompson,Female,65.17877023,131.5799346,4,3,biology,22.04171272
 905,Bruce,Wright,Male,67.31721132,150.357933,6,4,animal husbandry,20.44885533
@@ -929,13 +929,13 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 928,Jerry,Ellis,Male,71.69322734,155.4150286,2,5,architecture,20.49921491
 929,Raymond,Ferguson,Male,64.18577728,118.6472333,6,5,agricultural sciences,19.69154158
 930,Keith,Wagner,Male,63.2409618,132.8479723,3,0,environmental science,16.69606104
-931,Daniel,Thomas,Male,75.19043838,172.0194796,2,3,culinart services,23.11571859
+931,Daniel,Thomas,Male,75.19043838,172.0194796,2,3,culinary services,23.11571859
 932,Ralph,Fox,Male,59.80658402,98.99584653,3,1,medicine/nursing,16.95600623
 933,Amy,Willis,Female,67.8942425,124.2984028,5,4,physical education,22.84620275
 934,Fred,Harris,Male,63.23415951,147.1744512,3,3,physical education,14.21540334
 935,Nicole,Cook,Female,65.41632658,137.3063679,1,4,economics,18.93917752
-936,Linda,Garrett,Female,63.35129103,138.5301623,3,4,culinart services,17.88162478
-937,Raymond,Roberts,Male,65.37115362,147.0077715,2,5,culinart services,18.55335055
+936,Linda,Garrett,Female,63.35129103,138.5301623,3,4,culinary services,17.88162478
+937,Raymond,Roberts,Male,65.37115362,147.0077715,2,5,culinary services,18.55335055
 938,Katherine,Burton,Female,64.01953121,123.3189092,1,4,city planning,18.66627364
 939,Harold,Smith,Male,69.12379207,134.3486929,2,5,applied sciences,21.68060943
 940,Charles,Fernandez,Male,69.77392402,174.3502332,3,5,medicine/nursing,14.89299433
@@ -953,7 +953,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 952,Gerald,Rogers,Male,60.8703656,111.4330089,2,3,physical education,15.70235254
 953,Debra,Morrison,Female,61.02291145,135.6866574,2,2,criminal justice administration,16.84875579
 954,Nicholas,Diaz,Male,78.76890755,152.5985729,2,2,criminal justice administration,29.44927619
-955,Daniel,George,Male,67.06185539,151.7097951,3,3,culinart services,17.95730163
+955,Daniel,George,Male,67.06185539,151.7097951,3,3,culinary services,17.95730163
 956,Kevin,Dunn,Male,75.37066981,172.8734421,1,1,physical education,22.91799609
 957,Dennis,Daniels,Male,73.68642954,180.8674232,4,4,psychology,21.58449033
 958,Patricia,Patterson,Female,62.06469133,137.5064361,3,1,human services,17.19527416
@@ -965,7 +965,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 964,Joan,Hudson,Female,66.32615415,140.2036726,3,4,architecture,18.62456104
 965,Samuel,Hamilton,Male,74.16975602,163.0445111,3,0,agricultural sciences,23.24972427
 966,Steve,James,Male,71.31851988,153.1133458,0,3,physical education,18.28637819
-967,Virginia,Webb,Female,68.70509371,151.2716532,4,5,culinart services,22.86258934
+967,Virginia,Webb,Female,68.70509371,151.2716532,4,5,culinary services,22.86258934
 968,Ernest,Hansen,Male,67.8940911,159.2552253,4,2,criminal justice administration,18.51140303
 969,Angela,White,Female,64.40455863,137.1078007,3,3,philosophy,16.71758823
 970,Eugene,Ferguson,Male,60.32217995,104.5810842,5,3,animal husbandry,18.61261353
@@ -988,7 +988,7 @@ id,first_name,last_name,gender,height,weight,zombies_killed,years_of_education,m
 987,Joseph,Anderson,Male,71.62506989,157.0921946,4,5,physical education,20.40504553
 988,Kathy,Hicks,Female,62.79189404,128.8426777,4,2,biology,17.96940592
 989,Barbara,Kennedy,Female,63.85282779,144.1896617,1,6,biology,17.21144969
-990,Scott,Walker,Male,65.12383329,130.0173354,6,0,culinart services,18.62649496
+990,Scott,Walker,Male,65.12383329,130.0173354,6,0,culinary services,18.62649496
 991,Jessica,Brooks,Female,68.19737798,156.986662,1,5,applied sciences,20.63164396
 992,Cheryl,Rice,Female,67.73068542,136.5139262,3,5,energy studies,23.61626221
 993,William,Cruz,Male,66.82539127,139.8891226,4,6,psychology,19.19450478
